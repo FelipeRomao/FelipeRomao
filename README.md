@@ -2,8 +2,6 @@
 
 ⚡ Interested in Next.js, Serverless, DDD, TDD and Design Patterns
 
-🔨 My stack and tools for coding is available at stackshare.io/RafaelEmery/personal-stack
-
 👥 Take a look at my LinkedIn profile: linkedin.com/in/felipe-romao-1442a814b/
 
 📫 How to reach me: feliperomao.a@gmail.com
