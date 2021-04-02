@@ -10,10 +10,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 March, 2021 - 31 March, 2021
+Week: 25 March, 2021 - 01 April, 2021
 
-JavaScript   16 hrs 6 mins   ███████████████████████▒░   93.68 % 
-JSON         42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-TypeScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+JavaScript   12 hrs 53 mins  ███████████████████▓░░░░░   79.28 % 
+TypeScript   2 hrs 40 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 ```
 <!--END_SECTION:waka-->
