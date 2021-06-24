@@ -10,10 +10,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 15 June, 2021 - 22 June, 2021
+Week: 17 June, 2021 - 23 June, 2021
 
-JavaScript   11 hrs 39 mins  ████████████████████████▓   98.84 % 
-JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+JavaScript   10 hrs 41 mins  ████████████████████████▓   99.18 % 
+JSON         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 <!--END_SECTION:waka-->
