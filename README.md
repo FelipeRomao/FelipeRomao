@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 October, 2021 - 25 October, 2021
+Week: 20 October, 2021 - 26 October, 2021
 
-TypeScript   10 hrs 48 mins  ████████████▓░░░░░░░░░░░░   50.28 % 
-JavaScript   9 hrs 57 mins   ███████████▓░░░░░░░░░░░░░   46.33 % 
-SCSS         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+JavaScript   13 hrs 12 mins  █████████████▒░░░░░░░░░░░   52.93 % 
+TypeScript   10 hrs 59 mins  ███████████░░░░░░░░░░░░░░   44.05 % 
+SCSS         27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Other        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
