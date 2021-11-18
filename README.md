@@ -10,12 +10,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 November, 2021 - 16 November, 2021
+Week: 11 November, 2021 - 17 November, 2021
 
-JavaScript   8 hrs 54 mins   ███████████████████▒░░░░░   77.61 % 
-TypeScript   2 hrs 15 mins   █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
-JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-JSX          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JavaScript   8 hrs 16 mins   ███████████████████░░░░░░   76.17 % 
+TypeScript   2 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 % 
+JSX          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+SCSS         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 <!--END_SECTION:waka-->
