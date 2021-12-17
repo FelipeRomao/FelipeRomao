@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 December, 2021 - 15 December, 2021
+Week: 10 December, 2021 - 16 December, 2021
 
-TypeScript   5 hrs 12 mins   ███████████▒░░░░░░░░░░░░░   45.92 % 
-JSX          2 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.59 % 
-JavaScript   1 hr 57 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.31 % 
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-YAML         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript   5 hrs 8 mins    █████████████████▒░░░░░░░   69.48 % 
+JavaScript   51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+JSON         29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+JSX          28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+YAML         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 ```
 <!--END_SECTION:waka-->
