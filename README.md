@@ -10,12 +10,12 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 January, 2022 - 16 January, 2022
+Week: 11 January, 2022 - 17 January, 2022
 
-HTML         3 hrs 29 mins   █████████████░░░░░░░░░░░░   51.44 % 
-TypeScript   1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.18 % 
-JavaScript   52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+HTML         4 hrs 12 mins   ██████████████░░░░░░░░░░░   55.40 % 
+TypeScript   1 hr 50 mins    ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+JavaScript   58 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+CSS          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
