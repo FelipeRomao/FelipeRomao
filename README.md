@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 March 2022 - To: 30 March 2022
+From: 24 March 2022 - To: 31 March 2022
 
-TypeScript       16 hrs 43 mins  ██████████████████▓░░░░░░   75.11 %
-Blade Template   2 hrs 56 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
-PHP              1 hr 32 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JavaScript       24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-JSON             21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-CSS              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript       12 hrs 40 mins  ███████████████▒░░░░░░░░░   61.21 %
+Blade Template   2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
+JavaScript       2 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+PHP              2 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
+CSS              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+HTML             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
