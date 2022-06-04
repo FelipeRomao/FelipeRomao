@@ -1,6 +1,6 @@
 💻 I'm currently working as Pleno Front-End Developer at Ensinio
 
-⚡ Interested in Next.js, Serverless, DDD, TDD and Design Patterns
+⚡ Interested in Next.js, Serverless, Clean Architecture, DDD, TDD and others Design Patterns
 
 👥 Take a look at my LinkedIn profile: linkedin.com/in/felipe-romao-1442a814b/
 
