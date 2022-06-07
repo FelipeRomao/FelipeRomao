@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 May 2022 - To: 05 June 2022
+From: 30 May 2022 - To: 06 June 2022
 
 JavaScript   6 hrs 57 mins   ████████████████░░░░░░░░░   63.60 %
 TypeScript   3 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.70 %
