@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 June 2022 - To: 15 June 2022
+From: 09 June 2022 - To: 16 June 2022
 
-TypeScript   15 hrs 10 mins  ████████████████████████░   95.49 %
-JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-JavaScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+TypeScript   11 hrs 5 mins   ███████████████████████▒░   93.08 %
+JavaScript   27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+JSON         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
