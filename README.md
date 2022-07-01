@@ -11,12 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 June 2022 - To: 29 June 2022
-
-TypeScript   1 hr 3 mins     ████████████████████▒░░░░   81.42 %
-JSON         7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-JavaScript   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
