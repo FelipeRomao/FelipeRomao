@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-TypeScript   18 hrs 43 mins  █████████████████████▒░░░   85.02 %
-YAML         1 hr 46 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
-Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+TypeScript   17 hrs 45 mins  █████████████████████░░░░   83.45 %
+YAML         1 hr 47 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
+Other        40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
