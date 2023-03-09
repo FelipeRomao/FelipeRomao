@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2023 - To: 07 March 2023
+From: 01 March 2023 - To: 08 March 2023
 
-TypeScript   31 hrs 38 mins  ███████████████████████░░   92.39 %
-Bash         1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Other        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+TypeScript   27 hrs 35 mins  ███████████████████████▒░   93.50 %
+Other        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
 ```
 
 <!--END_SECTION:waka-->
