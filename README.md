@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2023 - To: 16 April 2023
+From: 10 April 2023 - To: 17 April 2023
 
 TypeScript   22 hrs 38 mins  ██████████████████▒░░░░░░   72.90 %
 Pug          4 hrs 15 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
