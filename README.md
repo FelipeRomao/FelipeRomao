@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 19 April 2023
+From: 13 April 2023 - To: 20 April 2023
 
-TypeScript   21 hrs 52 mins  ██████████████████▒░░░░░░   73.38 %
-Pug          4 hrs 15 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Other        55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TypeScript   18 hrs 1 min    █████████████████░░░░░░░░   68.50 %
+Pug          4 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
+Other        1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
 ```
 
 <!--END_SECTION:waka-->
