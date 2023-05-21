@@ -11,11 +11,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 May 2023 - To: 19 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-TypeScript   7 hrs 11 mins   █████████████████████████   99.44 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+TypeScript   1 hr 56 mins    ████████████████████████▓   99.25 %
+Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
