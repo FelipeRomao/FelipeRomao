@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 16 September 2023
+From: 10 September 2023 - To: 17 September 2023
 
 TypeScript     7 hrs 9 mins    ███████████████░░░░░░░░░░   59.48 %
 Docker         1 hr 59 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
