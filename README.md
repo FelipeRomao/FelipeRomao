@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2023 - To: 17 October 2023
+From: 11 October 2023 - To: 18 October 2023
 
-YAML         2 hrs 43 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
-JSON         1 hr 45 mins    ███████▒░░░░░░░░░░░░░░░░░   29.94 %
-TypeScript   42 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Bash         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
-Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+YAML         1 hr 30 mins    ████████▓░░░░░░░░░░░░░░░░   35.16 %
+JSON         1 hr 27 mins    ████████▓░░░░░░░░░░░░░░░░   34.31 %
+Bash         44 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.22 %
+TypeScript   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
+Other        13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
 ```
 
 <!--END_SECTION:waka-->
