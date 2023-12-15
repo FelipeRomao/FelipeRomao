@@ -11,11 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2023 - To: 13 December 2023
+From: 07 December 2023 - To: 14 December 2023
 
-JavaScript   1 hr 58 mins    ███████████████████░░░░░░   76.37 %
-Docker       23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-Bash         12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 %
+JavaScript   3 hrs 27 mins   ████████████▒░░░░░░░░░░░░   49.01 %
+TypeScript   2 hrs 18 mins   ████████▒░░░░░░░░░░░░░░░░   32.75 %
+Bash         31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+Docker       23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Other        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
