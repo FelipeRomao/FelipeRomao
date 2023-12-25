@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 Docker       2 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   31.01 %
 Bash         1 hr 47 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
