@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2024 - To: 11 February 2024
+From: 05 February 2024 - To: 12 February 2024
 
 TypeScript   14 hrs 6 mins   ██████████████████▓░░░░░░   74.76 %
 JSON         1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
