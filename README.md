@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
-Terraform    1 hr 36 mins    ██████████░░░░░░░░░░░░░░░   39.75 %
-TypeScript   1 hr 10 mins    ███████▒░░░░░░░░░░░░░░░░░   29.10 %
-JSON         1 hr 4 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.48 %
-Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-HCL          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Terraform    2 hrs 7 mins    ████████████████░░░░░░░░░   64.61 %
+TypeScript   39 mins         █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Git Config   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
