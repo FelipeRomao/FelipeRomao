@@ -11,11 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-TypeScript   29 mins         ██████████████████████▓░░   90.85 %
-Bash         2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
-Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   1 hr 19 mins    ██████████████████████░░░   87.82 %
+Bash         5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+Docker       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
