@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2024 - To: 13 September 2024
+From: 07 September 2024 - To: 14 September 2024
 
-Terraform    2 hrs 7 mins    ███████████░░░░░░░░░░░░░░   44.24 %
-TypeScript   1 hr 38 mins    ████████▓░░░░░░░░░░░░░░░░   34.00 %
-HCL          17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Git Config   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Terraform    2 hrs 7 mins    ███████████████▒░░░░░░░░░   61.65 %
+TypeScript   30 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.91 %
+HCL          17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
+Git Config   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+Bash         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
 ```
 
 <!--END_SECTION:waka-->
