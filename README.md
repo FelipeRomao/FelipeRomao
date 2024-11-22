@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2024 - To: 20 November 2024
+From: 14 November 2024 - To: 21 November 2024
 
-TypeScript   8 hrs 40 mins   ███████████████████░░░░░░   76.16 %
-Terraform    1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-YAML         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
-Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
-HCL          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+TypeScript   6 hrs 42 mins   █████████████████▓░░░░░░░   71.22 %
+Terraform    1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
+YAML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+Bash         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+HCL          13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
 ```
 
 <!--END_SECTION:waka-->
