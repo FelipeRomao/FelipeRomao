@@ -11,12 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-TypeScript   1 hr 6 mins     █████████████████░░░░░░░░   67.96 %
-Terraform    17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.08 %
-JSON         9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
-Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+TypeScript   57 mins         ██████████████████▒░░░░░░   72.73 %
+Terraform    17 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.52 %
+Other        3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
 ```
 
 <!--END_SECTION:waka-->
