@@ -11,10 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 January 2025 - To: 13 January 2025
+From: 07 January 2025 - To: 14 January 2025
 
-JSON         31 mins         ████████████████▓░░░░░░░░   67.01 %
-TypeScript   15 mins         ████████▒░░░░░░░░░░░░░░░░   32.99 %
+Terraform    1 hr 28 mins    █████████████▒░░░░░░░░░░░   53.12 %
+TypeScript   36 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
+JSON         31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+HCL          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
 ```
 
 <!--END_SECTION:waka-->
