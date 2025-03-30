@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 March 2025 - To: 28 March 2025
+From: 22 March 2025 - To: 29 March 2025
 
-TypeScript   28 hrs 37 mins  ██████████████████████▓░░   90.10 %
-JavaScript   1 hr 41 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
-Makefile     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Bash         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+TypeScript   38 hrs 4 mins   ███████████████████████▒░   92.77 %
+JavaScript   1 hr 39 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Makefile     37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+Bash         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+YAML         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
