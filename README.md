@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 May 2025 - To: 24 May 2025
+From: 18 May 2025 - To: 25 May 2025
 
 JavaScript   4 hrs 54 mins   ████████████▓░░░░░░░░░░░░   51.04 %
 TypeScript   1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
