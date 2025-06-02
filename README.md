@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
 JavaScript   1 hr 54 mins    ███████████████▓░░░░░░░░░   62.81 %
 YAML         24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
