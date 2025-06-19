@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-JavaScript   6 hrs 10 mins   ████████████▒░░░░░░░░░░░░   49.12 %
-TypeScript   4 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.32 %
-Bash         44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Markdown     26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
+JavaScript   5 hrs 35 mins   ████████████░░░░░░░░░░░░░   48.05 %
+TypeScript   4 hrs 3 mins    ████████▓░░░░░░░░░░░░░░░░   34.89 %
+Bash         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+JSON         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
+Markdown     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
