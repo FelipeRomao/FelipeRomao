@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2025 - To: 17 August 2025
+From: 11 August 2025 - To: 18 August 2025
 
 Python       7 hrs 18 mins   ████████████▓░░░░░░░░░░░░   50.98 %
 TypeScript   1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
