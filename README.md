@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2025 - To: 28 August 2025
+From: 22 August 2025 - To: 29 August 2025
 
-SQL          1 hr 57 mins    █████████░░░░░░░░░░░░░░░░   35.35 %
-JavaScript   1 hr 17 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.29 %
-TypeScript   1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
-YAML         36 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-Markdown     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+SQL          1 hr 57 mins    ████████████░░░░░░░░░░░░░   47.87 %
+JavaScript   1 hr 15 mins    ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+YAML         36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Markdown     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+Python       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
