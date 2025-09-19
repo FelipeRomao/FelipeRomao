@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2025 - To: 16 September 2025
+From: 11 September 2025 - To: 18 September 2025
 
-Go                4 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.31 %
-Markdown          3 hrs 32 mins   ████████░░░░░░░░░░░░░░░░░   32.16 %
-YAML              1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-SQL               24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Bash              19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Go                6 hrs 26 mins   ██████████████░░░░░░░░░░░   56.08 %
+Markdown          2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.36 %
+YAML              1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+Makefile          26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+Bash              18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->
