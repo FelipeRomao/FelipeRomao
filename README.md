@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 September 2025 - To: 27 September 2025
+From: 22 September 2025 - To: 29 September 2025
 
 Markdown     6 hrs 51 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
 JavaScript   5 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.59 %
