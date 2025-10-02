@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 23 September 2025 - To: 30 September 2025
 
-Markdown     6 hrs 51 mins   █████████▓░░░░░░░░░░░░░░░   38.54 %
-JavaScript   5 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.59 %
-Go           2 hrs 57 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
-Bash         50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Other        39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Markdown     7 hrs 10 mins   ███████████▒░░░░░░░░░░░░░   45.16 %
+JavaScript   5 hrs 16 mins   ████████▒░░░░░░░░░░░░░░░░   33.28 %
+Go           1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
+Bash         52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+TypeScript   51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
 ```
 
 <!--END_SECTION:waka-->
