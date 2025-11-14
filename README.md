@@ -11,9 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 November 2025 - To: 12 November 2025
+From: 06 November 2025 - To: 13 November 2025
 
-No activity tracked
+Go           1 hr 9 mins     ██████████████████▓░░░░░░   74.85 %
+JSON         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
+Other        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
+TypeScript   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
