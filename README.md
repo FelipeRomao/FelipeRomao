@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 November 2025 - To: 13 November 2025
+From: 07 November 2025 - To: 14 November 2025
 
-Go           1 hr 9 mins     ██████████████████▓░░░░░░   74.85 %
-JSON         10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Other        6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
-TypeScript   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Go           2 hrs 3 mins    ████████████████████░░░░░   80.63 %
+Other        12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+JSON         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+TypeScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
