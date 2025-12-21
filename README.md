@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Go           45 mins         ███████████▒░░░░░░░░░░░░░   45.48 %
-Bash         39 mins         ██████████░░░░░░░░░░░░░░░   39.99 %
-TypeScript   9 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Bash         1 hr 2 mins     ██████████▒░░░░░░░░░░░░░░   41.63 %
+Go           55 mins         █████████▒░░░░░░░░░░░░░░░   37.20 %
+TypeScript   25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.11 %
+Git Config   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
 ```
 
 <!--END_SECTION:waka-->
