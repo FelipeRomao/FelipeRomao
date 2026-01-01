@@ -11,12 +11,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Go           11 mins         ███████████████████░░░░░░   76.22 %
-Markdown     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-TypeScript   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
