@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 February 2026 - To: 09 February 2026
+From: 03 February 2026 - To: 10 February 2026
 
-Bash         4 hrs 9 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-YAML         3 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
-Python       2 hrs 42 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
-HCL          2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.21 %
-Other        1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+YAML         3 hrs 55 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.90 %
+Bash         3 hrs 28 mins   █████░░░░░░░░░░░░░░░░░░░░   20.34 %
+Python       3 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   20.19 %
+HCL          2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Docker       59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
 ```
 
 <!--END_SECTION:waka-->
