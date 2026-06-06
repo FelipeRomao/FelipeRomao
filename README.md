@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 May 2026 - To: 03 June 2026
+From: 30 May 2026 - To: 06 June 2026
 
-Python       3 hrs 22 mins         ██████████░░░░░░░░░░░░░░░   39.53 %
-TypeScript   3 hrs 14 mins         █████████▒░░░░░░░░░░░░░░░   37.80 %
-YAML         54 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.68 %
-JavaScript   23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-Docker       12 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Python       5 hrs 2 mins          ██████████▓░░░░░░░░░░░░░░   42.67 %
+TypeScript   4 hrs 1 min           ████████▓░░░░░░░░░░░░░░░░   34.17 %
+YAML         1 hr 29 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Other        16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Docker       12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
 ```
 
 <!--END_SECTION:waka-->
