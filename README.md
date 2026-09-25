@@ -11,13 +11,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2026 - To: 23 September 2026
+From: 17 September 2026 - To: 24 September 2026
 
-Other        7 hrs 26 mins         ███████░░░░░░░░░░░░░░░░░░   27.56 %
-JavaScript   6 hrs 54 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.57 %
-C#           4 hrs 1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-Markdown     3 hrs 43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
-PowerShell   1 hr 12 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+JavaScript   7 hrs 9 mins          ███████░░░░░░░░░░░░░░░░░░   28.00 %
+Other        6 hrs 45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+Markdown     4 hrs 12 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+C#           2 hrs 24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Bash         1 hr 42 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
 ```
 
 <!--END_SECTION:waka-->
